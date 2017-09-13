@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sahnawajbiswas/Downloads/MovieAppSample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/sahnawajbiswas/Downloads/MovieAppSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_779dd207ad580fa831b87014e112c724599f0238/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sahnawajbiswas/Downloads/MovieAppSample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c7a35557744b78a802a29a2e61d7d53205c4345">
+        <dex dex="/Users/sahnawajbiswas/Downloads/MovieAppSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_065b7b4b7b83d1f06a7e40fcf9bf10c9a4d2692d/classes.dex" />
+    </item>
+
+</items>
